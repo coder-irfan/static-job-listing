@@ -17,4 +17,4 @@ A responsive job listing app built with React. Users can filter job postings bas
 
 ---
 
-Built with ❤️ by Irfan Blake
+Built with ❤️ by Mohammad Irfan Noorzada
