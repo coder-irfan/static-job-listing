@@ -1,0 +1,27 @@
+.header {
+    position: relative;
+    z-index: 1;
+    background-color: $desaturated-dark-cyan;
+
+    &__mobile-bg, &__desktop-bg {
+        width: 100%;
+        height: rem(156);
+        object-fit: cover;
+    }
+
+    &__mobile-bg {
+        display: block;
+
+        @include breakpoint('md') {
+            display: none;
+        }
+    }
+
+    &__desktop-bg {
+        display: none;
+
+        @include breakpoint('md') {
+            display: block;
+        }
+    }
+}
