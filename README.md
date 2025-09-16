@@ -3,7 +3,7 @@
 A responsive job listing app built with React. Users can filter job postings based on selected tags.
 
 ### 🔗 Live Demo
-[View Live Site](https://Mohammad-Irfan-Noorzada.github.io/static-job-listing)
+[View Live Site](https://coder-irfan.github.io/static-job-listing)
 
 ### 💻 Features
 - Filter jobs by role, level, languages, and tools
